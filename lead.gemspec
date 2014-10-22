@@ -6,10 +6,10 @@ require 'lead/version'
 Gem::Specification.new do |spec|
   spec.name          = "lead"
   spec.version       = Lead::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Write your name"]
+  spec.email         = ["Write your email address"]
+  spec.summary       = %q{Write a short summary. Required.}
+  spec.description   = %q{Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

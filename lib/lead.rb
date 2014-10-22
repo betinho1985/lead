@@ -1,5 +1,7 @@
 require "lead/version"
 
 module Lead
-  # Your code goes here...
+  def self.contact(options)
+    options.save
+  end
 end
